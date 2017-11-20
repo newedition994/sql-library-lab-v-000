@@ -3,4 +3,4 @@ CREATE TABLE series (
    title TEXT,
    author_id INTEGER,
    sub-genre_id INTEGER
-)
+);
